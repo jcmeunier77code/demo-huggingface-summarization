@@ -1,6 +1,6 @@
 ---
 title: 01-demo-text-summrization
-emoji: ;-)
+emoji: 😁
 colorFrom: purple 
 colorTo: purple
 sdk: gradio
